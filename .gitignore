@@ -1,0 +1,7 @@
+Archive/**
+Weekly*/**
+*.pyc
+*.png
+*.jpg
+*.dat
+*.mat
